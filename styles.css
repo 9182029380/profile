@@ -16,6 +16,8 @@ body {
 
 .profile {
     text-align: center;
+    background-color: aqua;
+    border:2px solid green;
 }
 
 .profile img {
